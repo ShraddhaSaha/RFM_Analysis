@@ -1,0 +1,101 @@
+customer_id,customer_name,email,city,signup_date
+1,Marcus Mayer,acooper@gmail.com,South Kenneth,2024-03-26
+2,Thomas Holloway,randysantiago@baker.info,Mariahaven,2025-10-08
+3,Joseph Flores,smoon@gmail.com,West Jessicaborough,2024-10-07
+4,Erica Smith,masonlee@lewis-spears.com,Julieside,2025-02-20
+5,Elizabeth Franklin,alexander89@stewart.com,Kylefurt,2025-02-25
+6,Amanda Hobbs,harveyalicia@hotmail.com,Anthonyhaven,2025-01-18
+7,Peter Jones,johnsonrachel@hotmail.com,Perezport,2025-06-14
+8,Kurt Harmon,grimesmary@gmail.com,Stonechester,2024-10-21
+9,Matthew Lucas,regina29@gmail.com,East Robert,2025-05-29
+10,Gregory Powers,haleybrown@yahoo.com,Jessicafort,2024-03-04
+11,Monica Williamson,ocarrillo@morton-perez.com,New Christopher,2024-07-28
+12,Lauren Miller,edward43@gmail.com,South Raymondview,2025-05-11
+13,Wendy Prince,kanderson@bailey-adams.biz,Robertsonton,2024-03-08
+14,Joshua Bridges,jaredmccann@arellano-jenkins.net,Salinaschester,2023-12-01
+15,Ricky Alvarado,williamphillips@gonzalez.com,Port Angela,2024-04-20
+16,Ian Thompson,syates@krause.com,South Brenda,2025-06-03
+17,Dawn Wall,diazjames@gmail.com,Lynnmouth,2024-11-21
+18,Debra Byrd,ian09@neal-brandt.com,Martinezhaven,2023-12-10
+19,David Jacobson,smithmark@obrien-robertson.info,East Jeffreyborough,2024-03-31
+20,Melvin Salazar,anthony66@stephens.com,South Chase,2024-12-16
+21,Tina Pena,georgemichelle@lopez.net,East Nicole,2025-03-20
+22,Mandy Johns,clarencemartinez@williams.com,South Jenniferside,2025-05-02
+23,Laurie Decker,heather15@kelly.com,Bakerland,2024-06-10
+24,Steven Flowers,marytanner@romero-taylor.com,Allisontown,2025-07-07
+25,Alexander Johnson,simpsonearl@martin.com,North Benjaminshire,2023-12-25
+26,Connor Cooper,coxshannon@gmail.com,Taylorshire,2023-12-02
+27,Douglas Zimmerman,dgarrett@flores-smith.org,South Stephen,2025-06-23
+28,Lauren Sparks,jessesanders@delgado.com,Cherylton,2024-03-04
+29,Billy Martin,dmiller@boyd.com,Lake Edwardfurt,2024-04-16
+30,Megan Jones,veronicaingram@hunter-lopez.com,South Sean,2024-12-15
+31,Richard Holland,jasonholloway@bruce-davis.com,Marytown,2025-10-10
+32,Mario Wilson,travisthomas@romero-hines.info,South Stevenberg,2025-01-27
+33,Molly Boyle,powellmichael@west.com,Dayside,2025-02-06
+34,Olivia Torres,logandunn@yahoo.com,Port Ronnieside,2025-03-21
+35,Allison George,brownjoseph@williams.com,West Sharon,2023-12-12
+36,Jason Lam,robert04@peterson-simon.com,East Charles,2023-12-08
+37,Anthony Walker,colleenmorris@hotmail.com,Tammymouth,2024-01-08
+38,Philip Mckinney,martinjonathan@hotmail.com,Matthewstown,2023-12-29
+39,Jacqueline Martin,jodiharris@stewart.org,Victoriashire,2024-11-05
+40,Elizabeth Cox,leejennifer@howard-newton.info,Alyssahaven,2024-06-22
+41,Tammy Cox,dalton23@kelley.com,South Karenberg,2025-10-12
+42,Eric Fisher,veronica65@yahoo.com,Port Robert,2025-08-02
+43,Brandon Young,danielallen@hotmail.com,Port Ernest,2024-02-20
+44,Donald Weaver,samanthajensen@hotmail.com,Johnstonview,2025-02-04
+45,Francisco Mitchell,mallory21@trujillo-klein.com,North Jessica,2024-01-02
+46,Jamie Diaz,alexandramccarthy@eaton.com,Smithshire,2025-08-01
+47,Desiree Owens,richardsonronnie@gmail.com,South Barbaraland,2025-10-13
+48,Mary Cisneros,aaron31@cook-wilkinson.org,Kathrynfort,2024-07-18
+49,Brian Collins,holtmonica@gmail.com,North Stevenfort,2024-10-31
+50,Carmen Sanchez,tonya59@gmail.com,South Ashley,2024-05-03
+51,Brittany Khan,qcastro@yahoo.com,Fischerhaven,2025-06-25
+52,Kristen Mccullough,gregorybaldwin@klein-vazquez.com,New Ernest,2024-03-20
+53,Lisa Chavez,serranodarlene@franklin.com,Adamchester,2025-06-19
+54,Stacy Johnson,gabrielasmith@hotmail.com,West Susan,2025-05-09
+55,Rhonda Williams,qlopez@buck-savage.com,Nicoleville,2024-11-09
+56,Jeremy Green,virginiasilva@yahoo.com,Barrettmouth,2024-02-17
+57,Carlos Hampton,gsimpson@yahoo.com,Michaelside,2024-09-29
+58,John Jenkins,hernandezpatricia@sutton.net,Maxwellstad,2025-09-30
+59,Melissa Haynes,kathleen01@watts.com,Francistown,2024-03-08
+60,Cameron Crosby,masonvincent@fleming.com,Jamesmouth,2024-03-05
+61,Dean Rivera,jeffreyjones@gmail.com,Candacefort,2024-04-19
+62,Paul Johnson,moralesdeanna@russell.com,Cortezshire,2024-01-05
+63,Richard Perry,jordanjonathan@yahoo.com,Port Jeremy,2024-11-18
+64,Justin Martinez,svaughn@smith.com,New Craig,2025-05-05
+65,Matthew West,robersonkelsey@villarreal.net,Rhondaville,2024-11-19
+66,Samantha Hunt,umitchell@foster.org,New Waynestad,2025-04-12
+67,Gary Taylor,beckersusan@hotmail.com,Port Melissa,2024-02-24
+68,Tyler Ellison,robinwoods@hotmail.com,South Ryanside,2025-03-02
+69,Christopher Smith,hicksdarius@benjamin.com,Garrettmouth,2024-11-24
+70,Timothy Martin,andradedonald@chen-rodriguez.biz,Lake Shaunchester,2023-12-29
+71,Robert Potter,icooley@gmail.com,Bernardburgh,2025-07-07
+72,Kevin Morse,morgan17@rodriguez-ochoa.org,Daymouth,2025-09-26
+73,Brian Campbell,warrensara@hotmail.com,South Nicholefurt,2024-09-17
+74,Roger Snyder,jmeza@hotmail.com,Careyfort,2025-09-14
+75,Michael Fields Jr.,jeremyjimenez@wilkinson-patterson.com,Grahamland,2025-02-05
+76,Ryan Reyes,jacksonmeyer@hotmail.com,Georgefurt,2024-02-08
+77,Jenna Yoder,crystalmurphy@gonzales.com,Adamton,2024-03-09
+78,William Hamilton,matthew76@santos.info,Port David,2024-11-21
+79,Sandy Maynard,jmyers@gmail.com,East Geoffrey,2024-09-16
+80,Tina Ross,xmayer@gmail.com,Corystad,2024-10-29
+81,Felicia Wiley,melissahoffman@hotmail.com,Mooreburgh,2024-11-14
+82,Christopher Garner,jacksonkayla@gmail.com,Jamesmouth,2025-09-09
+83,Daniel Bennett,christopher35@gonzales.com,Dannytown,2024-02-08
+84,Anne Curry,feliciasanders@murphy.com,Williamsonport,2024-12-19
+85,Kayla Morgan,bsilva@coleman.com,Dixonview,2025-02-15
+86,Andrea Barron,ronnie44@mccormick.com,Terriside,2025-01-25
+87,Ann Martin,jeremyleonard@cook.com,Port Catherinebury,2024-03-02
+88,Rhonda Gonzalez,tamarageorge@hendrix.com,New Judy,2024-08-21
+89,Elizabeth Tran,goodmanharry@gmail.com,Hawkinsview,2024-09-30
+90,Lisa Morris,martinezsteven@gmail.com,East Shawn,2024-05-09
+91,Craig Erickson,lewismichael@hotmail.com,North Derrickchester,2025-07-10
+92,Craig Hernandez,stewartdale@powell.com,Singletontown,2024-07-13
+93,Andrea Clark,raywalker@gmail.com,East Mark,2024-06-24
+94,Christopher Mosley,christopher86@bruce.org,Adamstown,2024-06-01
+95,Jeffrey Perez,shannon58@fields-smith.com,East Ashley,2025-01-11
+96,Juan Villanueva,littlelori@green.com,Michelleberg,2025-07-03
+97,Rebecca Alexander,brandonmiller@campbell.com,Lake Ryanton,2024-05-12
+98,Whitney Benton,sharon45@young.com,South Heatherbury,2024-11-24
+99,Matthew Taylor,obrienmark@gmail.com,Port Elizabeth,2025-05-20
+100,Jeff Lam,clarkzachary@thomas-pennington.net,Dylanshire,2025-01-07
